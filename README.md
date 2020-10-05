@@ -27,3 +27,13 @@ Making *Unordered* list is easy.
 
 You can jump to [GitHub](https://github.com/)
 easily.
+
+## Section 5
+
+This is also easy.
+
+|Team   |Win |Lose |Draw |
+|-------|---:|----:|----:|
+|Hawks  |  46|   34|    4|
+|Eagls  |  46|   36|    2|
+|Marines|  42|   39|    3|
